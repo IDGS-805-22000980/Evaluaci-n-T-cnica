@@ -26,7 +26,7 @@ El proyecto está dividido en dos directorios principales: `evaluacion-backend` 
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/IDGS-805-22000980/Evaluaci-n-T-cnica.git](https://github.com/IDGS-805-22000980/Evaluaci-n-T-cnica.git)
+    git clone https://github.com/IDGS-805-22000980/Evaluaci-n-T-cnica.git
     cd Evaluaci-n-T-cnica
     ```
 
